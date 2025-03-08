@@ -1,0 +1,15 @@
+[submodule "submodules/vk-bootstrap"]
+	path = submodules/vk-bootstrap
+	url = https://github.com/RikoOphorst/vk-bootstrap.git
+[submodule "submodules/imgui"]
+	path = submodules/imgui
+	url = https://github.com/RikoOphorst/imgui.git
+[submodule "submodules/spdlog"]
+	path = submodules/spdlog
+	url = https://github.com/RikoOphorst/spdlog.git
+[submodule "submodules/glfw"]
+	path = submodules/glfw
+	url = https://github.com/RikoOphorst/glfw.git
+[submodule "submodules/assimp"]
+	path = submodules/assimp
+	url = https://github.com/RikoOphorst/assimp.git

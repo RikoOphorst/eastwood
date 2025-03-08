@@ -1,0 +1,7 @@
+namespace eastwood
+{
+    class Application
+    {
+
+    };
+}
